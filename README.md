@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @riverraider09
+- 👋 Hi, I’m Alex Copeland @riverraider09
 - 👀 I’m interested in continueing my learning..
 - 🌱 I’m currently learning HTML and CSS on VS Code
 - 💞️ I’m looking to collaborate on new projects to furhter my education
