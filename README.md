@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex Copeland @riverraider09
 - 👀 I’m interested in continueing my learning..
-- 🌱 I’m currently learning HTML and CSS on VS Code
+- 🌱 I’m currently learning HTML, CSS, JavaScript, and Python on VS Code
 - 💞️ I’m looking to collaborate on new projects to furhter my education
 - 📫 How to reach me zcope000@yahoo.com
 
